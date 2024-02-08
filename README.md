@@ -1,0 +1,1 @@
+It is focus to learn vowels in a fun way, since once a vowel is caught by the diver with his net it gives a point to the user, the user needs to use arrow keys to move the diver and catch the 5 vowels trying to not be eaten by the shark.
